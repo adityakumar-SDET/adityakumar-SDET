@@ -1,83 +1,106 @@
-# Hi there, I'm Aditya Kumar 👋
+# Hi, I'm Aditya Kumar 👋
 
-### QA Automation Engineer | SDET | AWS Certified Developer – Associate | Claude Certified Associate – Foundations
+### SDET | QA Automation Engineer | Cloud & DevOps | AI-Powered Quality Engineering
 
-Passionate about building scalable test automation frameworks, improving software quality, and integrating AI into modern engineering workflows.
+**Building scalable automation frameworks, reliable testing solutions, and intelligent engineering workflows.**
 
-I specialize in **Java-based test automation, API testing, CI/CD, and DevOps practices**, with a growing focus on **AI-powered Quality Engineering, Claude, and Model Context Protocol (MCP)**.
+I'm a Quality Engineering professional focused on designing and enhancing robust test automation frameworks, improving software delivery processes, and integrating modern technologies into testing workflows.
+
+My core expertise includes **Java, Selenium, Playwright, REST Assured, automation framework design, and CI/CD**, complemented by knowledge of **AWS, Docker, and Kubernetes**.
+
+I'm also expanding my expertise in **AI Engineering, Claude, Model Context Protocol (MCP), and AI-driven automation**, with a long-term focus on intelligent quality engineering and Forward Deployed Engineering (FDE).
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Overview
 
-- 💻 Working in **QA Automation / SDET**, focusing on building reliable and maintainable test automation solutions.
-- 🧪 Experienced in automation framework enhancements, reusable testing utilities, parallel execution, and test reporting.
-- ☁️ **AWS Certified Developer – Associate**.
-- 🤖 **Claude Certified Associate – Foundations**.
-- 🔧 Interested in combining **Quality Engineering, DevOps, Cloud, and AI Engineering**.
-- 🌱 Continuously learning about **AI agents, MCP, Claude, and Forward Deployed Engineering (FDE)**.
-- 🎯 Goal: Build intelligent, scalable, and efficient engineering solutions using automation and AI.
+- **Test Automation Engineering:** Developing maintainable, reusable, and scalable UI and API automation solutions.
+- **Framework Architecture:** Enhancing automation frameworks through modular design, reusable libraries, parallel execution, and advanced reporting.
+- **Quality Engineering:** Improving test coverage, execution efficiency, and integration with software delivery pipelines.
+- **Cloud & DevOps:** Applying AWS and DevOps knowledge to modern engineering and automation workflows.
+- **AI Adoption:** Exploring AI-assisted development, test optimization, intelligent agents, and MCP-based integrations.
+- **Continuous Learning:** Strengthening expertise across cloud-native engineering, automation architecture, and AI technologies.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Expertise
 
-| Category | Technologies & Tools |
+| Domain | Technologies & Capabilities |
 |---|---|
-| Programming | Java |
-| UI Automation | Selenium WebDriver, Playwright |
-| API Automation | REST Assured, REST API Testing |
-| Test Frameworks | TestNG, Maven, BDD |
-| Automation Design | Page Object Model, Data-Driven Testing, Parallel Execution |
-| CI/CD & DevOps | Git, GitHub Actions, Docker, Kubernetes, CI/CD Pipelines |
-| Cloud | Amazon Web Services (AWS) |
-| AI & Developer Tools | Claude, GitHub Copilot, Kiro |
-| AI Engineering Interests | AI Agents, MCP, AI-Powered Test Automation |
-| Quality Engineering | Framework Development, Test Reporting, Reusable Utilities |
+| **Programming** | Java |
+| **UI Test Automation** | Selenium WebDriver, Playwright |
+| **API Test Automation** | REST Assured, REST API Testing |
+| **Test Frameworks** | TestNG, Maven, BDD |
+| **Framework Design** | Page Object Model, Data-Driven Testing, Parallel Execution |
+| **CI/CD & Version Control** | Git, GitHub Actions, CI/CD Pipelines |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes |
+| **AI Developer Tools** | Claude, GitHub Copilot, Kiro |
+| **Quality Engineering** | Test Strategy, Framework Enhancements, Reporting Libraries, Reusable Utilities |
+| **Emerging Technologies** | AI Agents, Model Context Protocol (MCP), AI-Powered Test Automation |
 
-## 🏆 Certifications
+## 🏆 Professional Certifications
 
-- **AWS Certified Developer – Associate** — Amazon Web Services
-- **Claude Certified Associate – Foundations** — Anthropic
+### ☁️ AWS Certified Developer – Associate
+**Amazon Web Services (AWS)**
 
-## 🔬 Engineering Focus
+Validated knowledge of AWS application development, cloud services, deployment, security, and serverless development concepts.
 
-### Test Automation Engineering
-- Building reusable and maintainable automation frameworks.
-- Improving test execution through parallel processing.
-- Developing common testing libraries and reporting utilities.
-- Integrating automated tests into CI/CD pipelines.
+### 🤖 Claude Certified Associate – Foundations
+**Anthropic**
 
-### Cloud & DevOps
-- Exploring AWS-based application development and automation.
-- Working with containerization, Kubernetes, and CI/CD concepts.
-- Improving test automation integration within engineering workflows.
+Validated foundational knowledge of Claude, prompt engineering, AI-assisted workflows, and responsible AI application.
 
-### AI-Powered Quality Engineering
-- Exploring Claude and MCP for intelligent testing workflows.
+*Focused on applying cloud and AI knowledge to practical engineering and quality automation solutions.*
+
+## 🚀 Engineering Contributions & Areas of Focus
+
+### 🧪 Test Automation & Framework Engineering
+
+- Designing and enhancing maintainable UI and API test automation frameworks.
+- Developing reusable testing libraries, utilities, and reporting components.
+- Improving execution efficiency through parallel testing and framework optimization.
+- Supporting CI/CD integration for automated quality checks.
+- Strengthening testing practices through modular architecture and reusable components.
+
+### ☁️ Cloud Engineering & DevOps
+
+- Working with cloud and DevOps concepts to support engineering productivity.
+- Exploring AWS-based automation and serverless development.
+- Building knowledge of Docker, Kubernetes, and deployment pipelines.
+- Connecting quality engineering practices with modern software delivery workflows.
+
+### 🤖 AI-Powered Quality Engineering
+
+- Exploring Claude-powered agents for intelligent test automation.
+- Learning MCP-based integrations between AI agents and engineering tools.
 - Investigating AI-assisted test generation, debugging, and reporting.
-- Applying AI developer tools to improve engineering productivity.
+- Using AI development tools to improve engineering productivity.
+- Developing skills relevant to AI Engineering and Forward Deployed Engineering.
 
-## 📂 Featured Projects
+## 📂 Projects & Technical Portfolio
 
-*Projects and implementations will be added here as the portfolio develops.*
+My GitHub portfolio focuses on practical implementations across automation, cloud engineering, and AI.
 
-Planned focus areas:
+| Project Area | Focus |
+|---|---|
+| **Java & Selenium Automation** | Scalable UI automation framework design |
+| **Playwright Automation** | Modern browser automation and reliable test execution |
+| **REST Assured API Testing** | Reusable API automation and validation |
+| **AI-Powered QA Agents** | Claude, MCP, and intelligent testing workflows |
+| **AWS & DevOps Labs** | Cloud services, containerization, and CI/CD automation |
 
-- Java + Selenium Automation Framework
-- Playwright UI Automation Framework
-- REST Assured API Automation Framework
-- AI-Powered QA Agent using Claude and MCP
-- AWS and DevOps Automation Labs
+*Repository links and implementation details will be added as projects are published.*
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- AI Agents and Model Context Protocol (MCP)
-- Claude-based engineering workflows
-- AWS and cloud-native application development
-- Forward Deployed Engineering (FDE)
-- Advanced automation architecture and DevOps practices
+- **AI Engineering:** Claude, AI agents, MCP, and intelligent tool integrations.
+- **Quality Engineering:** Advanced automation architecture and AI-assisted testing.
+- **Cloud Engineering:** AWS development and cloud-native applications.
+- **DevOps:** Containerization, orchestration, and CI/CD optimization.
+- **Forward Deployed Engineering:** Combining software engineering, AI, and practical problem-solving.
 
-## 🤝 Let's Connect
+## 🤝 Connect & Collaborate
 
-I'm interested in collaborating on **Test Automation, SDET Engineering, AWS, DevOps, and AI-powered Quality Engineering**.
+I'm interested in collaborating on **Test Automation Frameworks, Quality Engineering, AWS, DevOps, and AI-powered Engineering Solutions**.
 
-Thanks for visiting my GitHub profile!
+I believe in continuous learning, practical implementation, and building engineering solutions that are reliable, scalable, and maintainable.
+
+**Thanks for visiting my profile!**
