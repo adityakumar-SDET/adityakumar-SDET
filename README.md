@@ -44,7 +44,7 @@ I'm also expanding my expertise in **AI Engineering, Claude, Model Context Proto
 <p align="center">
   <a href="https://www.credly.com/badges/5a88693e-91cf-4160-8494-c3d8772c2b4c/public_url">
     <img
-      src="aws-developer-associate.png"
+      src="aws-certified-developer-associate.png"
       alt="AWS Certified Developer - Associate"
       width="160"
     />
