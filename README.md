@@ -40,12 +40,12 @@ I'm also expanding my expertise in **AI Engineering, Claude, Model Context Proto
 
 ### ☁️ AWS Certified Developer – Associate
 **Amazon Web Services (AWS)**
-
+https://www.credly.com/badges/5a88693e-91cf-4160-8494-c3d8772c2b4c/public_url
 Validated knowledge of AWS application development, cloud services, deployment, security, and serverless development concepts.
 
 ### 🤖 Claude Certified Associate – Foundations
 **Anthropic**
-
+https://www.credly.com/badges/9dcf0d3b-7d70-4402-9e3b-83b8a2042ff1/public_url
 Validated foundational knowledge of Claude, prompt engineering, AI-assisted workflows, and responsible AI application.
 
 *Focused on applying cloud and AI knowledge to practical engineering and quality automation solutions.*
