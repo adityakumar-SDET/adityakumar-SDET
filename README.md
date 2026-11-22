@@ -38,15 +38,51 @@ I'm also expanding my expertise in **AI Engineering, Claude, Model Context Proto
 
 ## 🏆 Professional Certifications
 
-### ☁️ AWS Certified Developer – Associate
-**Amazon Web Services (AWS)**
-https://www.credly.com/badges/5a88693e-91cf-4160-8494-c3d8772c2b4c/public_url
-Validated knowledge of AWS application development, cloud services, deployment, security, and serverless development concepts.
 
-### 🤖 Claude Certified Associate – Foundations
-**Anthropic**
-https://www.credly.com/badges/9dcf0d3b-7d70-4402-9e3b-83b8a2042ff1/public_url
-Validated foundational knowledge of Claude, prompt engineering, AI-assisted workflows, and responsible AI application.
+## 🏆 Professional Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/5a88693e-91cf-4160-8494-c3d8772c2b4c/public_url">
+    <img
+      src="aws-developer-associate.png"
+      alt="AWS Certified Developer - Associate"
+      width="160"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/9dcf0d3b-7d70-4402-9e3b-83b8a2042ff1/public_url">
+    <img
+      src="claude-certified-associate.png"
+      alt="Claude Certified Associate - Foundations"
+      width="160"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>AWS Certified Developer – Associate</strong>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>Claude Certified Associate – Foundations</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/5a88693e-91cf-4160-8494-c3d8772c2b4c/public_url">
+    Verify AWS Certification
+  </a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/9dcf0d3b-7d70-4402-9e3b-83b8a2042ff1/public_url">
+    Verify Claude Certification
+  </a>
+</p>
+
+**AWS Certified Developer – Associate**  
+Validated knowledge of AWS application development, cloud services, security, deployment, and serverless development.
+
+**Claude Certified Associate – Foundations**  
+Validated foundational knowledge of Claude, prompt engineering, AI-assisted workflows, and responsible AI practices.
+
+---
+
 
 *Focused on applying cloud and AI knowledge to practical engineering and quality automation solutions.*
 
