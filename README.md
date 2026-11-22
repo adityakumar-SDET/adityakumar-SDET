@@ -52,7 +52,7 @@ I'm also expanding my expertise in **AI Engineering, Claude, Model Context Proto
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/9dcf0d3b-7d70-4402-9e3b-83b8a2042ff1/public_url">
     <img
-      src="claude-certified-associate.png"
+      src="claude-certified-associate-foundations.png"
       alt="Claude Certified Associate - Foundations"
       width="160"
     />
